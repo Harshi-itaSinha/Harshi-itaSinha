@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshita Sinha</h1>
-<h3 align="center">A Third year CSE undergraduate|Competitive programmer| Web enthusiast | ML enthusiast|</h3>
+<h3 align="center">Budding Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshi-itasinha&label=Profile%20views&color=0e75b6&style=flat" alt="harshi-itasinha" /> </p>
 
